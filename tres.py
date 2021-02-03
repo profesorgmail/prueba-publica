@@ -2,3 +2,4 @@
 c = int(input("numero: "))
 cc = c*c
 
+print(cc)
